@@ -36,44 +36,39 @@
 <pre align="justify">
   <strong>Oi eu sou GEGDS 👋🏽</strong>
 
-  I'm currently studying node.js | express | ejs
+  Atualmente estou estudando node.js | express | ejs
 
+  Gosto muito de aprender coisas novas 
+  e focar nelas ate ser bom suficiente.
+  E implementar elas nos meus aprendizados
+  para desenvolver melhor.
 
-  Passionate about technology, 
-  but I only had contact with a computer
-  when I was 16.
-  I always wanted to study in the area,
-  but I only had the means after I was 24.
+  As vezes tenho certa dificuldade em 
+  aprender certos assuntos mas e muito
+  gratificante domina-los.
 
-  I love learning and focus on new things 
-  until I get good at them. 
-  Sometimes, depending on the subject, 
-  I am a slow learner or a fast learner.
-
-  I like to implement new things 
-  that I learn to find a better way 
-  to code.
+  Só tive acesso a um computador pessoal 
+  depois dos 15 anos, e as condiçoes 
+  para estudar só depois de mais velho aos 24.
 </pre>
 
 <pre width="100%">
   <h3>More about me</h3>
-  - I like to code while listening to rain songs,
-  which feels strange when the weather is very hot
+  - Eu gosto de programar enquanto ouço sons de chuva, 
+  o que fica muito estranho no calor.
 
-  - I love manga. My current big three are 
-  Fullmetal Alchemist, One Piece, and Jujutsu Kaisen, 
-  with an honorable mention to Blue Lock
+ - Eu amo mangás. Meu atual Top 3 é 
+  Fullmetal Alchemist, One Piece e Jujutsu Kaisen,
+  menção honrosa para Blue Lock.
 
-  - My first encounter with programming was when 
-  I played the game Mugen, which featured characters from 
-  various universes. To add a character to the game,
-  you needed to copy and paste the character's 
-  code into the right place in the game files.
+ - Meu primeiro contato com programação foi quando 
+  joguei o jogo Mugen, que contava com vários personagens 
+  de diferentes universos. Para adicionar algum personagem ao jogo, 
+  tinha que copiar o código e colar na pasta certa do jogo.
 
-  - One of my main interests in programming is 
-  the opportunity for continued studies. At first, 
-  I was very happy with it, but then I felt a little overwhelmed
-  by the huge amount of subjects there are to study,
-  which seems a bit contradictory
+ -Um dos pontos em programação que mais me chama atenção 
+  é o aprendizado contínuo. Mas é um sentimento controverso 
+  porque também me causa um sentimento muito ruim de estar 
+  sobrecarregado pela quantidade de assuntos a se estudar.
 
 </pre>
