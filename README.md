@@ -27,7 +27,7 @@
 
 <img
   src="https://64.media.tumblr.com/a93bbaacc1057fdbb5febb1cba27ee47/tumblr_o78qr44Yl91rnbh24o2_540.gif"
-  style="max-width: 100%; height: auto;" 
+  style="max-width: 90%; height: auto;" 
   align="right"
   alt="full metal alchemist"
 />
