@@ -28,8 +28,8 @@
 <img
   src="https://64.media.tumblr.com/a93bbaacc1057fdbb5febb1cba27ee47/tumblr_o78qr44Yl91rnbh24o2_540.gif"
   min-width="400px"
-  width="450px"
-  height="360px"
+  width="400px"
+  height="500px"
   align="right"
   alt="full metal alchemist"
 />
