@@ -17,7 +17,7 @@
 </div>
 
 <!-- Title -->
-<div align="center">
+<div align="left">
   <p>
     <strong>| Student</strong>
   </p>
