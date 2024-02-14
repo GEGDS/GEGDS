@@ -26,7 +26,7 @@
 &nbsp;
 
 <img
-  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tumblr.com%2Fanime4lifu%2F627181786869465088%2Ffullmetal-alchemist&psig=AOvVaw0a2LELBWfF540D_WEYSn1U&ust=1707964083588000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjrlZXkqYQDFQAAAAAdAAAAABAQ"
+  src="https://64.media.tumblr.com/a93bbaacc1057fdbb5febb1cba27ee47/tumblr_o78qr44Yl91rnbh24o2_540.gif"
   min-width="400px"
   width="450px"
   height="360px"
