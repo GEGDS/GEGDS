@@ -1,4 +1,16 @@
-<p align="center">
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+<p align="left"> 
+  Oi eu sou Gabriel 👋🏽,
+  atualmente estou estudando node.js, express e ejs, 
+  ainda não trabalho na área mas busco oportunidades para 
+  aplicar e expandir meu conhecimento.
+  
+
+
+<p align="left">
+  Tecnologias :<p align="center">
   <code>#Html</code> &nbsp;
   <code>#CSS</code> &nbsp;
   <code>#JavaScript</code> &nbsp;
@@ -7,64 +19,17 @@
   <code>#MySQL</code>
 </p>
 
-<!-- Icons -->
-<div align="center">
-  <a href="" title="">
-    <img alt="Portfólio" src=""></a>
- 
-  <a href="https://www.linkedin.com/in/gabriel-silva-39a71b217/" title="Conect with me">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/Linked--In-%20%20%20%20-blue"></a>
-</div>
+</p>
 
-<!-- Title -->
-<div align="left">
-  <p>
-    <strong>| Student</strong>
-  </p>
-</div>
+<p align="left">
+ Onde me procurar: ⤵️
+</p>
 
-&nbsp;
-
-<img
-  src="https://64.media.tumblr.com/a93bbaacc1057fdbb5febb1cba27ee47/tumblr_o78qr44Yl91rnbh24o2_540.gif"
-  style="width: 100%; height: auto;" 
-  align="right"
-  alt="full metal alchemist"
-/>
-
-<!-- Main Content -->
-<pre align="justify">
-  <strong>Oi eu sou GEGDS 👋🏽</strong>
-
-  Atualmente estou estudando node.js | express | ejs
-
-  Gosto muito de aprender coisas novas 
-  e focar nelas ate ser bom suficiente.
-  E implementar elas nos meus aprendizados
-  para desenvolver melhor.
-
-  As vezes tenho certa dificuldade em 
-  aprender certos assuntos mas e muito
-  gratificante domina-los.
-</pre>
-
-<pre width="100%">
-  <h3>More about me</h3>
-  - Eu gosto de programar enquanto ouço sons de chuva, 
-  o que fica muito estranho no calor.
-
- - Eu amo mangás. Meu atual Top 3 é 
-  Fullmetal Alchemist, One Piece e Jujutsu Kaisen,
-  menção honrosa para Blue Lock.
-
- - Meu primeiro contato com programação foi quando 
-  joguei o jogo Mugen, que contava com vários personagens 
-  de diferentes universos. Para adicionar algum personagem ao jogo, 
-  tinha que copiar o código e colar na pasta certa do jogo.
-
- -Um dos pontos em programação que mais me chama atenção 
-  é o aprendizado contínuo. Mas é um sentimento controverso 
-  porque também me causa um sentimento muito ruim de estar 
-  sobrecarregado pela quantidade de assuntos a se estudar.
-
-</pre>
+<p align="left">
+  <a href="mailto:gabrielback2008@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/gabriel-silva-39a71b217/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/gegds_/" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+</p>
