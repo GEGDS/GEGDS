@@ -27,7 +27,7 @@
 
 <img
   src="https://64.media.tumblr.com/a93bbaacc1057fdbb5febb1cba27ee47/tumblr_o78qr44Yl91rnbh24o2_540.gif"
-  style="max-width: 90%; height: auto;" 
+  style="width: 100%; height: auto;" 
   align="right"
   alt="full metal alchemist"
 />
@@ -46,10 +46,6 @@
   As vezes tenho certa dificuldade em 
   aprender certos assuntos mas e muito
   gratificante domina-los.
-
-  Só tive acesso a um computador pessoal 
-  depois dos 15 anos, e as condiçoes 
-  para estudar só depois de mais velho aos 24.
 </pre>
 
 <pre width="100%">
