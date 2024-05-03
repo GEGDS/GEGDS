@@ -33,5 +33,6 @@
   <a href="https://www.instagram.com/gegds_/" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
  <a href="https://gegds.github.io/Portfolio-GithubPages-Version/" title="Portfólio">
-  <img src="https://img.shields.io/badge/-Portfolio-DF0174?style=flat-labelColor=7AB3BF&logo=Portfolio&logoColor=white&link=link-portfolio" alt="Portfólio"/></a>
+ <img src="https://img.shields.io/badge/-Portfolio-0000FF?style=flat-labelColor=7AB3BF&logo=Portfolio&logoColor=white&link=link-portfolio">
+ alt="Portfólio"/></a>
 </p>
